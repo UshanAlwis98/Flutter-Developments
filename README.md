@@ -1,20 +1,23 @@
-<<<<<<< HEAD
-# first_app
+<a href="https://flutter.dev/">
+  <h1 align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png">
+      <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png">
+    </picture>
+  </h1>
+</a>
 
-A new Flutter project.
 
-## Getting Started
+### Fast results
 
-This project is a starting point for a Flutter application.
+Flutter is fast. It's powered by hardware-accelerated 2D graphics
+libraries like [Skia] (which underpins Chrome and Android) and
+[Impeller]. We architected Flutter to
+support glitch-free, jank-free graphics at the native speed of your device.
 
-A few resources to get you started if this is your first Flutter project:
+Flutter code is powered by the world-class [Dart programming language], which enables
+compilation to 32-bit and 64-bit ARM machine code for iOS and Android,
+JavaScript and WebAssembly for the web, as well as Intel x64 and ARM
+for desktop devices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flutter-Developments
->>>>>>> c5d2db813c7e8543ea3986e4b0404361dac565b2
+<p align="center"><img src="https://github.com/flutter/website/blob/main/site/web/assets/images/docs/homepage/dart-diagram-small.png?raw=true" alt="Dart diagram"></p>
